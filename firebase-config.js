@@ -1,0 +1,1 @@
+const firebaseConfig = { apiKey: "AIzaSyDNRdsomHvVhqidtSW5WSvf-Ua9QXgrHdI", authDomain: "biet-lost-found-88019.firebaseapp.com", projectId: "biet-lost-found-88019", storageBucket: "biet-lost-found-88019.firebasestorage.app", messagingSenderId: "246178463299", appId: "1:246178463299:web:cd1eeeed7248bb4e969ef6" };
